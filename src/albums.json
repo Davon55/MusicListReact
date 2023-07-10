@@ -1,0 +1,23 @@
+[
+    {
+        "id": 0,
+        "albumTitle":"I Never Liked You",
+        "albumDescription":"I Never Liked You is the ninth studio album by American rapper Future. It was released on April 29, 2022, by Freebandz and Epic Records. The production on the album was handled by multiple producers including ATL Jacob, FnZ, Southside, Taurus, TM88, and Wheezy, among others.",
+        "imageUrl":"https://upload.wikimedia.org/wikipedia/en/thumb/7/7e/I_Never_Liked_You_%28Future%29.png/220px-I_Never_Liked_You_%28Future%29.png"
+    },
+
+    {
+        "id": 1,
+        "albumTitle":"Future",
+        "albumDescription":"Future is the fifth studio album by American rapper Future. It was released on February 17, 2017, by A1 Recordings, Freebandz and Epic Records.",
+        "imageUrl":"https://upload.wikimedia.org/wikipedia/en/9/96/Future_cover.jpg"
+    },
+
+    {
+        "id": 2,
+        "albumTitle":"HNDRXX",
+        "albumDescription":"Hndrxx is the sixth studio album by American rapper Future. It was released on February 24, 2017, through A1 Recordings, Freebandz, and Epic Records. It followed the release of Future's eponymously-titled fifth album by one week, and features guest appearances from Rihanna, The Weeknd, Chris Brown, and Nicki Minaj.",
+        "imageUrl":"https://upload.wikimedia.org/wikipedia/en/8/83/HNDRXX_cover.jpg"
+    }
+
+]
